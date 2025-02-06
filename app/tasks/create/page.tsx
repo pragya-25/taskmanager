@@ -1,6 +1,6 @@
 "use client";
 
-import { createTask } from "C:/Users/PRAGYA SWAROOP/task-manager/lib/actions.ts/";
+import { createTask } from "@/lib/actions";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 
